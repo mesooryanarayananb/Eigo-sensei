@@ -17,3 +17,6 @@ Basic HTML, CSS, Javascript, bootstrap v3, and jquery 1.10
 
 ## Contact 
 - links of social network of Adly Loukil
+
+## Influence to Open Source comminity
+- helps to make a first step in contributing on github
